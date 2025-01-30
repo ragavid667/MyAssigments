@@ -2,9 +2,9 @@
 
 function userProfile(name){   // function declaration   
 
-    console.log("Hello,<name>!")
+    console.log(`Hello ${name}`!)
 }
- userProfile();
+ userProfile(Ragavi);
 
 
  let double = () => {     // arrow function

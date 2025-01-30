@@ -20,8 +20,7 @@ function runTests(testType){
             break;
     }
 
-    testType = "sanity";
 }
-
+runTests("sanity");
 
 runTests();

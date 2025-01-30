@@ -8,8 +8,8 @@ let mobileName = 908272456743;
 console.log("the datatype of mobilenumber is:" , typeof mobileName);
 
 let isAutomation = true;
-console.log("the datatype of isAutomation" , typeof isAutomation);
+console.log("the datatype of isAutomation is:" , typeof isAutomation);
 
 let hasPlaywright;
-console.log("the datatype of hasplaywright" , typeof hasPlaywright);
+console.log("the datatype of hasplaywright is:" , typeof hasPlaywright);
 

@@ -23,4 +23,4 @@ function runTests(testType){
 }
 runTests("sanity");
 
-runTests();
+
